@@ -6,4 +6,3 @@ for n in range(1,101):
     elif (n % 5 == 0):
         print("buzz")
     print(n)
-    //cd
